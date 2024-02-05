@@ -28,4 +28,10 @@
     ![Screenshot (170)](https://github.com/Habib160205/50-command-redahat.md/assets/150981755/5040f9d0-0328-4668-8421-41aa05e318e3)
 15. userdel - Menghapus pengguna.
     ![Screenshot (171)](https://github.com/Habib160205/50-command-redahat.md/assets/150981755/aabababa-ffb8-4622-b722-fc1f4e0de3a0)
-16. 
+16. passwd - Mengganti kata sandi pengguna.
+    ![Screenshot (172)](https://github.com/Habib160205/50-command-redahat.md/assets/150981755/ca944e14-be9b-4eca-8fac-d68717686d7d)
+17. killall - Menghentikan semua instance proses dengan nama tertentu.
+    ![Screenshot (173)](https://github.com/Habib160205/50-command-redahat.md/assets/150981755/2169abb1-50fc-431f-b4e2-d37b778d88c2)
+18. df -h - Menampilkan penggunaan disk dalam format yang lebih mudah dibaca.
+    ![Screenshot (174)](https://github.com/Habib160205/50-command-redahat.md/assets/150981755/64af43db-f3e4-45eb-b71a-3c467a8c74c0)
+19. 
