@@ -103,6 +103,8 @@ M. Habib Aditya
     ![Screenshot (208)](https://github.com/Habib160205/50-command-redahat.md/assets/150981755/88a6f973-878b-441c-a082-1affa8082e8c)
 50. free -m - Menampilkan penggunaan memori.
     ![Screenshot (209)](https://github.com/Habib160205/50-command-redahat.md/assets/150981755/3fcbb8bd-a827-4b0a-8ead-24d1f75d12a2)
+51. uname -r - Menampilkan versi kernel.
+    ![Screenshot (210)](https://github.com/Habib160205/50-command-redahat.md/assets/150981755/72b26074-0b50-4e02-bb62-e35c21fe44f6)
 
 
 
