@@ -1,3 +1,7 @@
+#sistem operasi
+M. Habib Aditya
+09030582226032
+
 1. sudo - Menjalankan perintah sebagai superuser (Unix/Linux).
 ![Screenshot (153)](https://github.com/Habib160205/50-command-redahat.md/assets/150981755/12934dfe-5330-47bf-a08e-e2200d1a147f)
 2.top - Menampilkan daftar proses yang menggunakan sumber daya (Unix/Linux).
@@ -34,4 +38,59 @@
     ![Screenshot (173)](https://github.com/Habib160205/50-command-redahat.md/assets/150981755/2169abb1-50fc-431f-b4e2-d37b778d88c2)
 18. df -h - Menampilkan penggunaan disk dalam format yang lebih mudah dibaca.
     ![Screenshot (174)](https://github.com/Habib160205/50-command-redahat.md/assets/150981755/64af43db-f3e4-45eb-b71a-3c467a8c74c0)
-19. 
+19. find - Mencari file atau direktori.
+    ![Screenshot (177)](https://github.com/Habib160205/50-command-redahat.md/assets/150981755/c5d71f0d-62fa-4f4d-9b8e-6d77f5b5b371)
+20. grep - Mencari teks dalam file atau output.
+    ![Screenshot (179)](https://github.com/Habib160205/50-command-redahat.md/assets/150981755/6fc054c6-9325-415f-804f-ea75cd844117)
+21. sed - Mengedit dan memanipulasi teks.
+    ![Screenshot (180)](https://github.com/Habib160205/50-command-redahat.md/assets/150981755/d99d5826-0b6f-4795-97f5-765bd1b6ee14)
+22. date - Menampilkan atau mengatur tanggal dan waktu sistem.
+    ![Screenshot (181)](https://github.com/Habib160205/50-command-redahat.md/assets/150981755/10eeae26-78d3-4404-a15d-b4132b5a19e5)
+23. cal - Menampilkan kalender.
+    ![Screenshot (182)](https://github.com/Habib160205/50-command-redahat.md/assets/150981755/25a1b160-21a8-45e8-90aa-e218ec0147d7)
+24. uptime - Menampilkan waktu aktif sistem.
+    ![Screenshot (183)](https://github.com/Habib160205/50-command-redahat.md/assets/150981755/cbd4bd9c-9719-49a7-89e4-cda6cad006b4)
+25. ps aux - Menampilkan informasi lengkap tentang semua proses yang berjalan.
+    ![Screenshot (184)](https://github.com/Habib160205/50-command-redahat.md/assets/150981755/17423042-f20a-4f48-87d7-a09117d13c8a)
+26. netstat - Menampilkan informasi jaringan dan koneksi
+    ![Screenshot (185)](https://github.com/Habib160205/50-command-redahat.md/assets/150981755/5e2a5d02-7990-4c20-8432-db43c9c82fe0)
+27. hostname - Menampilkan atau mengatur nama host sistem.
+    ![Screenshot (186)](https://github.com/Habib160205/50-command-redahat.md/assets/150981755/b8033cad-fe37-4235-b7c1-7414d6b55150)
+28. echo $SHELL - Menampilkan shell yang sedang digunakan.
+    ![Screenshot (187)](https://github.com/Habib160205/50-command-redahat.md/assets/150981755/58e9246d-59a7-4e70-b004-54db9baea524)
+29. mount - Melihat dan mengelola sistem file yang dipasang.
+    ![Screenshot (188)](https://github.com/Habib160205/50-command-redahat.md/assets/150981755/88437d62-6b1d-454f-9b63-a8dbf10b534b)
+30. file - Menampilkan jenis file.
+    ![Screenshot (189)](https://github.com/Habib160205/50-command-redahat.md/assets/150981755/ceb5568d-6e25-4bd3-8b35-afee19eeee6c)
+31. umount - Mencabut pemasangan sistem file.
+    ![Screenshot (190)](https://github.com/Habib160205/50-command-redahat.md/assets/150981755/17ca80c1-e231-41a3-a5e4-285dab1bf23b)
+32. locate - Mencari file dalam database lokal.
+    ![Screenshot (191)](https://github.com/Habib160205/50-command-redahat.md/assets/150981755/27cbcf45-2f74-4aba-a60d-8f56362c1d61)
+33. uname - Menampilkan informasi kernel dan sistem operasi.
+    ![Screenshot (192)](https://github.com/Habib160205/50-command-redahat.md/assets/150981755/495f1ff2-4ba5-474e-9c7d-9aacd141a894)
+34. dmesg - Menampilkan log kernel.
+    ![Screenshot (193)](https://github.com/Habib160205/50-command-redahat.md/assets/150981755/cba45110-f3c5-4a45-9e19-a7b3ed344880)
+35. kill -9 - Memaksa menghentikan proses.
+    ![Screenshot (194)](https://github.com/Habib160205/50-command-redahat.md/assets/150981755/cbe33404-8794-425d-995f-3c42c13a0a84)
+36. nmcli adalah perintah yang digunakan dalam lingkungan sistem operasi Linux/Unix untuk mengelola dan berinteraksi dengan NetworkManager, sebuah alat pengelola 
+     jaringan yang umum digunakan pada distribusi Linux
+     ![Screenshot (195)](https://github.com/Habib160205/50-command-redahat.md/assets/150981755/4c50037b-a427-45f9-a985-2304295ebaf9)
+37. df -i - Menampilkan informasi penggunaan inode.
+    ![Screenshot (196)](https://github.com/Habib160205/50-command-redahat.md/assets/150981755/9aeb3b4c-3b1d-4e02-8bab-2a1ca5aa72bf)
+38. ps -ef - Menampilkan informasi lengkap tentang proses yang sedang berjalan.
+    ![Screenshot (197)](https://github.com/Habib160205/50-command-redahat.md/assets/150981755/ecc7c5d3-baf6-41fa-817c-c665835703a3)
+39. curl wttr.in - Menampilkan informasi cuaca di terminal.
+    ![Screenshot (198)](https://github.com/Habib160205/50-command-redahat.md/assets/150981755/8472eb54-eac1-4f93-af11-733dc21783f7)
+40. grep -i [kata kunci] [nama file] - Mencari teks dalam file tanpa memperhatikan huruf besar atau kecil.
+    ![Screenshot (199)](https://github.com/Habib160205/50-command-redahat.md/assets/150981755/da1cbc95-7909-4edf-bfa1-879437266d09)
+41. which [perintah] - Menampilkan path direktori dari suatu perintah.
+    ![Screenshot (200)](https://github.com/Habib160205/50-command-redahat.md/assets/150981755/a146e428-e8b1-44d8-b44a-7c37aaa53588)
+42. curl -O [URL] - Mengunduh file dari URL dan menyimpannya dengan nama asli.
+    ![Screenshot (201)](https://github.com/Habib160205/50-command-redahat.md/assets/150981755/e5df84d9-2fd0-4ee3-9d08-6fec3a5d5f67)
+43. 
+
+
+
+
+
+
