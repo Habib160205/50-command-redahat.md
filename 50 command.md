@@ -24,3 +24,8 @@
     ![Screenshot (168)](https://github.com/Habib160205/50-command-redahat.md/assets/150981755/fba41b62-2d25-452e-a42a-eb544ba994d2)
 13. history - Menampilkan sejarah perintah.
     ![Screenshot (169)](https://github.com/Habib160205/50-command-redahat.md/assets/150981755/f87b5b62-8274-4d9a-bb34-4ae1b0cc59b5)
+14.  who - Menampilkan pengguna yang saat ini masuk.
+    ![Screenshot (170)](https://github.com/Habib160205/50-command-redahat.md/assets/150981755/5040f9d0-0328-4668-8421-41aa05e318e3)
+15. userdel - Menghapus pengguna.
+    ![Screenshot (171)](https://github.com/Habib160205/50-command-redahat.md/assets/150981755/aabababa-ffb8-4622-b722-fc1f4e0de3a0)
+16. 
