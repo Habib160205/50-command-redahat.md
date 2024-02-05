@@ -87,8 +87,22 @@ M. Habib Aditya
     ![Screenshot (200)](https://github.com/Habib160205/50-command-redahat.md/assets/150981755/a146e428-e8b1-44d8-b44a-7c37aaa53588)
 42. curl -O [URL] - Mengunduh file dari URL dan menyimpannya dengan nama asli.
     ![Screenshot (201)](https://github.com/Habib160205/50-command-redahat.md/assets/150981755/e5df84d9-2fd0-4ee3-9d08-6fec3a5d5f67)
-43. 
-
+43. du -sh [nama direktori] - Menampilkan penggunaan disk total suatu direktori.
+    ![Screenshot (202)](https://github.com/Habib160205/50-command-redahat.md/assets/150981755/88abe965-23d0-459e-9c4e-a09847dc2356)
+44. df -h - Menampilkan informasi penggunaan disk dengan format yang mudah dibaca.
+    ![Screenshot (203)](https://github.com/Habib160205/50-command-redahat.md/assets/150981755/d433f553-b866-4255-801c-9f46310f89ee)
+45. scp -r [direktori] [nama pengguna]@[alamat tujuan]:[path tujuan] - Menyalin direktori melalui SSH secara rekursif.
+    ![Screenshot (204)](https://github.com/Habib160205/50-command-redahat.md/assets/150981755/d985c756-9442-4652-b86e-d313410df118)
+46. alias [nama_alias]="[perintah]" - Membuat alias untuk perintah.
+    ![Screenshot (205)](https://github.com/Habib160205/50-command-redahat.md/assets/150981755/7900c79b-efb7-4d36-a0b8-559fda0ec942)
+47. df -hT - Menampilkan informasi penggunaan disk dengan tipe sistem file.
+    ![Screenshot (206)](https://github.com/Habib160205/50-command-redahat.md/assets/150981755/98b129ae-5ef1-408f-8d30-e8ae3d1d3180)
+48. sudo reboot - Me-restart sistem.
+    ![Screenshot (207)](https://github.com/Habib160205/50-command-redahat.md/assets/150981755/e226b2bf-0918-40c1-8502-95090dc9ea8f)
+49. !n - Menjalankan perintah ke-n dari riwayat.
+    ![Screenshot (208)](https://github.com/Habib160205/50-command-redahat.md/assets/150981755/88a6f973-878b-441c-a082-1affa8082e8c)
+50. free -m - Menampilkan penggunaan memori.
+    ![Screenshot (209)](https://github.com/Habib160205/50-command-redahat.md/assets/150981755/3fcbb8bd-a827-4b0a-8ead-24d1f75d12a2)
 
 
 
